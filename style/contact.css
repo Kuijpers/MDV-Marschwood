@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+#contact div.field{
+	width				:		460px;
+	margin-top			:		25px;
+	float				:		left;
+}
+
+#contact input.field{
+	border				:		3px double #8b7730;
+}
+
+#contact input.errorinfo{
+	border				:		3px double #8b7730;
+	background-color	:		#ffcccc;
+}
+
+#contact input.correct{
+	border				:		3px double #8b7730;
+	background-color	:		#ccffcc;
+}
+
+#contact textarea{
+	border				:		3px double #8b7730;
+	
+}
+
+#contact textarea.correct{
+	border				:		3px double #8b7730;
+	background-color	:		#ccffcc;
+	
+}
+
+#contact textarea.errorinfo{
+	border				:		3px double #8b7730;
+	background-color	:		#ffcccc;
+	
+}
+
+#contact .error{
+	color				:	red;
+}
+
+#contact select.field{
+	border				:		3px double #663300;
+	background-color	:		#ffffcc;
+	color				:		#663300;
+}
